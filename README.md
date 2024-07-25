@@ -4,8 +4,8 @@
 3. `node ./server.js` // server side
 
 ### Brief report
-- No problems were found in launching the project. Everything is run locally.
-- There were no special implementation problems.
-- The only thing that was missing was more detailed requirements and implementation planning due to short time opportunities.
-- The project may contain extreme cases for searching, texting and correction may require additional time.
-- The total time used for the implementation of the project: approximately 10 hours.
+- No problems were found when launching the project. Everything is run locally.
+- There were no unique implementation problems.
+- The only thing that needed to be added due to lack of time was more detailed planning.
+- The project may contain extreme cases for searching and correction, which may require additional time.
+- The total time required to implement the project is approximately 10 hours.
